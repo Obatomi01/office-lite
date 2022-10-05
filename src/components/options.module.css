@@ -1,0 +1,30 @@
+.options {
+  padding: 2.4rem;
+
+  position: absolute;
+  background-color: #fff;
+  box-shadow: 5px 15px 50px 10px rgba(0, 0, 0, 0.2);
+
+  width: 35rem;
+  /* margin: auto; */
+  /* padding-right: 0px; */
+  /* right: 0px; */
+  /* margin-inline: 2.4rem; */
+  right: 0px;
+  top: 42%;
+  left: 2.4rem;
+}
+
+.options li {
+  list-style: none;
+  /* margin-block: 1.2rem; */
+
+  padding-block: 1.6rem;
+  border: none;
+  border-bottom: 1px solid;
+  font-size: 1.8rem;
+}
+
+.active {
+  background-color: red;
+}
